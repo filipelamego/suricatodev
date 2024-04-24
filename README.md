@@ -6,7 +6,7 @@ O projeto Excurcionistas, desenvolvido pelo grupo SuricatoDev, é um sistema de 
 ## Funcionalidades Principais
 O Excurcionistas oferece uma variedade de funcionalidades para usuários e administradores, incluindo:
 - **Gerenciamento de Itinerários:** Permitindo aos usuários criar e personalizar itinerários detalhados para suas caravanas.
-- **Reservas de Transporte e Hospedagem:** Facilitando a reserva de passagens, hotéis e outros serviços relacionados à viagem.
+- **Reservas de Transporte em caravanas:** Facilitando a reserva de vagas relacionados à viagem.
 - **Comunicação em Grupo:** Oferecendo ferramentas de comunicação integradas para manter todos os participantes informados e conectados durante a viagem.
 - **Rastreamento em Tempo Real:** Permitindo que os administradores monitorem o progresso da caravana e forneçam suporte quando necessário.
 - **Gestão Financeira:** Possibilitando o controle de orçamentos, pagamentos e despesas relacionadas à viagem.
@@ -15,7 +15,7 @@ O Excurcionistas oferece uma variedade de funcionalidades para usuários e admin
 O Excurcionistas é desenvolvido utilizando as seguintes tecnologias:
 - **Linguagem de Programação:** JavaScript
 - **Framework Web:** 
-- **Banco de Dados:** 
+- **Banco de Dados:** MySQL
 - **Frontend:** HTML, CSS, JavaScript
 - **Ferramentas de Versionamento:** Git, GitHub
 
