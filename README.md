@@ -20,7 +20,7 @@ O Excurcionistas é desenvolvido utilizando as seguintes tecnologias:
 - **Ferramentas de Versionamento:** Git, GitHub
 
 ## Equipe SuricatoDev
-O SuricatoDev é composto por uma equipe multidisciplinar de engenheiros de software comprometidos em oferecer soluções inovadoras e de alta qualidade. Cada membro da equipe contribui com suas habilidades únicas para o desenvolvimento e aprimoramento contínuo do Excurcionistas.
+O SuricatoDev é composto por uma equipe multidisciplinar de programadores comprometidos em oferecer soluções inovadoras e de alta qualidade. Cada membro da equipe contribui com suas habilidades únicas para o desenvolvimento e aprimoramento contínuo do Excurcionistas.
 
 - **Alexandre Arantes Teles da Silva** - 
 - **Fernanda Szabadi** - 
